@@ -42,3 +42,5 @@ This EDA highlights data inconsistencies, pricing patterns, and listing behavior
 
 ## Author
 Tajwinder (Taj) Singh
+
+## To view the notebook with outputs, open it in nbviewer
