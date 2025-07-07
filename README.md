@@ -41,6 +41,7 @@ The dataset contains information about Airbnb property listings, including host 
 This EDA highlights data inconsistencies, pricing patterns, and listing behaviors that can guide hosts and Airbnb in strategic decisions. The dataset is now ready for modeling or dashboard creation.
 
 ## Author
-Tajwinder (Taj) Singh
+Tajwinder Singh
 
-## To view the notebook with outputs, open it in nbviewer
+Linkedin - Tajwinder (Taj) Singh
+
