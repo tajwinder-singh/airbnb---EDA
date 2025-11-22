@@ -1,5 +1,11 @@
 # Exploratory Data Analysis on Airbnb Listings
 
+---
+
+<img width="669" height="494" alt="Screenshot 2025-11-22 152201" src="https://github.com/user-attachments/assets/fe3367d8-80cf-486b-b932-36a85de6deb2" />
+
+---
+
 ## Overview
 This project performs an in-depth Exploratory Data Analysis (EDA) on Airbnb listings dataset. The goal is to understand the structure of the data, clean it, visualize key variables, and derive insights to support business decisions and future model development.
 
